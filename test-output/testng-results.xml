@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-12-15T00:54:21 IST" name="Suite" finished-at="2023-12-15T00:54:21 IST" duration-ms="154">
+    <groups>
+    </groups>
+    <test started-at="2023-12-15T00:54:21 IST" name="Test" finished-at="2023-12-15T00:54:21 IST" duration-ms="154">
+      <class name="TestNG_AllPrg.FirstTestNG1">
+        <test-method signature="setup()[pri:1, instance:TestNG_AllPrg.FirstTestNG1@41fecb8b]" started-at="2023-12-15T00:54:21 IST" name="setup" finished-at="2023-12-15T00:54:21 IST" duration-ms="19" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="login()[pri:2, instance:TestNG_AllPrg.FirstTestNG1@41fecb8b]" started-at="2023-12-15T00:54:21 IST" name="login" finished-at="2023-12-15T00:54:21 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="teardown()[pri:3, instance:TestNG_AllPrg.FirstTestNG1@41fecb8b]" started-at="2023-12-15T00:54:21 IST" name="teardown" finished-at="2023-12-15T00:54:21 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- TestNG_AllPrg.FirstTestNG1 -->
+      <class name="TestNG_AllPrg.FirstTestNG2">
+        <test-method signature="setup()[pri:1, instance:TestNG_AllPrg.FirstTestNG2@120f102b]" started-at="2023-12-15T00:54:21 IST" name="setup" finished-at="2023-12-15T00:54:21 IST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="searchCust()[pri:2, instance:TestNG_AllPrg.FirstTestNG2@120f102b]" started-at="2023-12-15T00:54:21 IST" name="searchCust" finished-at="2023-12-15T00:54:21 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchCust -->
+        <test-method signature="teardown()[pri:3, instance:TestNG_AllPrg.FirstTestNG2@120f102b]" started-at="2023-12-15T00:54:21 IST" name="teardown" finished-at="2023-12-15T00:54:21 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- TestNG_AllPrg.FirstTestNG2 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
